@@ -1,0 +1,35 @@
+# Data files (too large for git — dataset/ alone is ~5.4 GB)
+dataset/
+*.csv
+*.parquet
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+
+# Outputs (regenerable from notebooks/src)
+outputs/
+
+# MLflow
+mlruns/
+mlartifacts/
+mlflow.db
+
+# Environment
+.env
+venv/
+ml-venv/
+
+# Docs (internal planning — not part of the public portfolio)
+WORK_PLAN.md
+docs/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
