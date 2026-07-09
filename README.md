@@ -5,8 +5,6 @@
 **Academic context:** NIB 7072 Machine Learning — MSc Data Science, Coventry University / NIBM Sri Lanka (2025)
 **Portfolio context:** Designed as a Data Engineer portfolio project demonstrating time series forecasting and data engineering on raw sensor data.
 
-**Status:** Planning complete — implementation not yet started. See [`WORK_PLAN.md`](WORK_PLAN.md) for the phase-by-phase plan and [`STUDY_GUIDE.md`](STUDY_GUIDE.md) (written incrementally as each phase completes) for results and reasoning.
-
 ---
 
 ## Problem Statement
