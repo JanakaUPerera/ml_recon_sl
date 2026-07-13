@@ -78,15 +78,13 @@ ml_recon_sl/
 
 ## Pipeline Status
 
-| Task | Key Decisions | Status |
-|---|---|---|
-| 1. Dataset Understanding & Literature Review | Target/horizon defined, multi-file continuity confirmed | Not started |
-| 2. Time Series Exploration & Preprocessing | ETL for cumulative-counter differencing, decomposition, lag/rolling features | Not started |
-| 3. Model Development | SARIMA, LSTM/GRU, XGBoost with walk-forward CV | Not started |
-| 4. GARCH Volatility Modelling | GARCH(1,1) on daily demand returns | Not started |
-| 5. Comparison & Critical Reflection | Cross-model comparison, business/ethical discussion | Not started |
-
-Full breakdown of deliverables per phase: [`WORK_PLAN.md`](WORK_PLAN.md).
+| Task | Key Decisions |
+|---|---|
+| 1. Dataset Understanding & Literature Review | Target/horizon defined, multi-file continuity confirmed |
+| 2. Time Series Exploration & Preprocessing | ETL for cumulative-counter differencing, decomposition, lag/rolling features |
+| 3. Model Development | SARIMA, LSTM/GRU, XGBoost with walk-forward CV |
+| 4. GARCH Volatility Modelling | GARCH(1,1) on daily demand returns |
+| 5. Comparison & Critical Reflection | Cross-model comparison, business/ethical discussion |
 
 ---
 
